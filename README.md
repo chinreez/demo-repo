@@ -15,4 +15,4 @@ Any files with changes will show us being not staged for commit. Unless we add t
 
 ## Local Developmeny
 
-1. Open index.html in browder
+1. Open index.html in browser
